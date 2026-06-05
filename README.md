@@ -10,10 +10,10 @@ Turns out an eye for detail translates really well to a codebase.
 - I'm currently learning Python & its dev essentials, with DSA in C already under my belt.  
 - I am currently working towards building my dev portfolio & personal projects.
 
-Feel free to reach out to me via:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]linkedin.com/in/armaan-kashyap-46a594371
+Feel free to reach out to me via: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)] linkedin.com/in/armaan-kashyap-46a594371
 
 - Ask me about code, tech  & sports news, anime/manwhas/mangas, or how an artist ended up debugging at 2 am 
-- Fun Fact: former district-level tennis player, I sketch Mangas in my free time, and Curious about travelling.
+- Fun Fact: former district-level tennis player, I sketch Mangas in my free time, and I'm curious about travelling.
            Coding is just the latest obsession.
 ----
 ## Tech Stack
