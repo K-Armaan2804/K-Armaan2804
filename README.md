@@ -2,6 +2,7 @@
 
 ### An artist who can code.
 I started with a paintbrush and ended up in a terminal.
+
 I can debug the logic, design the interface, and make both look like they belong together.
 
 Turns out an eye for detail translates really well to a codebase.
